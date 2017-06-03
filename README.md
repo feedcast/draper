@@ -19,6 +19,11 @@ In order to deploy the functions to AWS, use: `make deploy`.
 
 ### Run
 
-To trigger the AWS functions, use: `make invoke_train`
+To trigger the AWS functions, use: `make $function`
 
-Or, use `make train` to run it locally.
+Or, use `make $function` to run it locally.
+
+**Available functions**
+
+* `train` - Learn from the training set
+* `predict` - Generate predictions
