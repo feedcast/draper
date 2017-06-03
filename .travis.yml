@@ -1,0 +1,4 @@
+sudo: true
+language: bash
+before_script: make install
+script: make deploy
