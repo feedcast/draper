@@ -1,4 +1,4 @@
-# Draper
+# Draper [![Build Status](https://travis-ci.org/feedcast/draper.svg?branch=master)](https://travis-ci.org/feedcast/draper)
 > Don knows what you want to listen
 
 ## Intro
@@ -19,7 +19,7 @@ In order to deploy the functions to AWS, use: `make deploy`.
 
 ### Run
 
-To trigger the AWS functions, use: `make $function`
+To trigger the AWS functions, use: `make invoke_$function`
 
 Or, use `make $function` to run it locally.
 
