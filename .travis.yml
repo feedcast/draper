@@ -1,4 +1,4 @@
 sudo: true
 language: bash
-before_script: make install
+before_script: sudo make install
 script: make deploy
