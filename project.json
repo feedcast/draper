@@ -1,0 +1,9 @@
+{
+  "name": "draper",
+  "runtime": "python3.6",
+  "handler": "main.handler",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::752963485410:role/draper_lambda_function",
+  "environment": {}
+}
