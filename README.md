@@ -1,5 +1,8 @@
-# Draper [![Build Status](https://travis-ci.org/feedcast/draper.svg?branch=master)](https://travis-ci.org/feedcast/draper)
-> Don knows what you want to listen
+<p align="center">
+  <img src="https://raw.githubusercontent.com/feedcast/draper/master/docs/logo.png" width="200">
+  <h1 align="center" style="margin-top: -70px">Draper <img src="https://travis-ci.org/feedcast/draper.svg?branch=master" alt="Build Status" /></h1>
+  <p align="center">🥃 Don knows what you want to listen<p>
+</p>
 
 ## Intro
 
