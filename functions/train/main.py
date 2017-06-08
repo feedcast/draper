@@ -1,3 +1,5 @@
+import numpy
+
 def handler(event, context):
     return "Hello"
 
