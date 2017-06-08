@@ -7,11 +7,11 @@ setup_apex:
 
 .PHONY: train
 train:
-	python3 functions/train/main.py
+	python functions/train/main.py
 
 .PHONY: predict
 predict:
-	python3 functions/predict/main.py
+	python functions/predict/main.py
 
 .PHONY: invoke_train
 invoke_train:
